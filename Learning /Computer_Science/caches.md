@@ -1,0 +1,1 @@
+Caches is a hardware or software component that stores data so that future requests for that data can be served faster.

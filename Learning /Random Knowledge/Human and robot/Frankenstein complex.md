@@ -1,0 +1,3 @@
+The name, "Frankenstein complex", is derived from the name of Victor Frankenstein in the 1818 novel [[Frankenstein; or, The Modern Prometheus]] by Mary Shelley In Shelley's story, Frankenstein created an intelligent, somewhat superhuman being, but he finds that his creation is horrifying to behold and abandons it. This ultimately leads to Victor's death at the conclusion of a vendetta between himself and his creation.
+
+This concept share commen ideas with [[Uncanny valley]]
